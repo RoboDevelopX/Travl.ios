@@ -1,9 +1,5 @@
 # Travl.iOS
 
-## Demo
-
-<img src="https://user-images.githubusercontent.com/59039044/147020116-161e6c88-4192-4cc2-9b66-5ec23967b63e.mp4" width= "200">
-
 ## Project features
 
 1. Travel planner
@@ -42,11 +38,3 @@
 3. Quit terminal, open project folder
 4. Open .xcworkspace file 
 5. Build the project and run
-
-## Contributors
-
-1. [Ikmal Azman](https://github.com/esikmalazman) - iOS development
-2. [Ainin Sofiya](https://github.com/asofiyatukiran[) - API development
-3. [Wan Hani](https://github.com/Syxfixh) - QA & Software tester
-4. [Mr. Hazmin](https://www.linkedin.com/in/ts-ainul-hazmin-p-tech-9386419b/) - Project supervisor
-
